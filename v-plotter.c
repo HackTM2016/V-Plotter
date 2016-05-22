@@ -1,6 +1,11 @@
+//HackTM 2016
 //Project: V-plotter
-//Homepage: www.HomoFaciens.de
-//Author Norbert Heinz
+//Oce Software Timisoara Team
+//Hardware authors Claudiu Dunga, Dan Regep, Radu Vulpe, Remus Tomsa, Mihai Rusoaie
+//Software author: Norbert Heinz, www.HomoFaciens.de
+//other software credits:
+// - http://www.daniweb.com/software-development/c/code/216326
+// - http://www.undertec.de/blog/2009/05/kbhit_und_getch_fur_linux.html
 //Version: 0.1
 //Creation date: 24.06.2015
 //This program is free software you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation version 3 of the License.
